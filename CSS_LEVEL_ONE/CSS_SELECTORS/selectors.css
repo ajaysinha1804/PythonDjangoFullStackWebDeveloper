@@ -1,0 +1,25 @@
+.first_class{
+    color: blue;
+}
+
+.second_class{
+    color: red;
+}
+
+#first_id{
+    color: green;
+    text-decoration: line-through;
+}
+
+h3 + ul{
+    border: 4px dotted yellow;
+}
+
+li a{
+    color: red;
+}
+
+li a[href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD" ]{
+    background-color: yellow;
+    color: black;
+}

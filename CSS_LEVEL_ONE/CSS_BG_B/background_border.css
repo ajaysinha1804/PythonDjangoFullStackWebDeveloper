@@ -1,0 +1,16 @@
+body{
+    background:url(/CSS_BG_B/backgroud_image.jpeg);
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: gray;
+    border-color: rgb(0, 255, 17);
+    border-width: 2px;
+    border-style: dotted;
+}
+
+span{
+    background: white;
+    color: green;
+}

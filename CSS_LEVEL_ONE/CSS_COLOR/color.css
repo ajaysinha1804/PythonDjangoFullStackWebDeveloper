@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+
+/* RGB */
+p{
+    color:rgb(233, 16, 18);
+}
+
+/* HEX */
+ol{
+    color: #379A10;
+}
+
+/* RGBA */
+h2{
+    color: rgba(68, 7, 85, 0.5);
+}
